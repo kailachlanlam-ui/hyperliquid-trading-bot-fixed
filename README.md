@@ -43,12 +43,11 @@ if (dailyState.consecutiveLosses >= 3) {
     dailyState.coolingDown = true;
     logger.warn('Circuit breaker activated');
 }
+```
 
+## Full Version - cryptotradingsignals.gumroad.com/l/HyperBot
 
-Full bot - $67 - cryptotradingsignals.gumroad.com/l/HyperBot
-
-
-🌍 HyperClaw Bot - Deployment Kit
+## 🌍 HyperClaw Bot - Deployment Kit
 Automated crypto trading bot for Hyperliquid with local AI analysis
 
 🚀 Quick Start
