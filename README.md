@@ -45,7 +45,8 @@ if (dailyState.consecutiveLosses >= 3) {
 }
 ```
 
-## Full Version - cryptotradingsignals.gumroad.com/l/HyperBot
+## Full Version
+https://cryptotradingsignals.gumroad.com/l/HyperBot
 
 ## 🌍 HyperClaw Bot - Deployment Kit
 Automated crypto trading bot for Hyperliquid with local AI analysis
